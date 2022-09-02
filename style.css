@@ -22,6 +22,8 @@ article div {
   text-align: center;
   width: 100%;
 }
+
+
 footer div {
   text-align: center;
   width: 100%;
@@ -29,6 +31,11 @@ footer div {
 body header {
   text-align: center;
   width: 100%;
+}
+
+footer{
+    margin: auto;
+    width: 44%;
 }
 
 
@@ -61,7 +68,10 @@ hr {
 nav{
   word-spacing: 30px;
 }
-body {background-color: #eae2b7;}
+body 
+{
+    background-color: #eae2b7;
+}
 a {
   color:#d62828;
 }
